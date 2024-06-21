@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
                 });
 
         dialog = builder.create();
+        //testing jenkin
 
     }
     private void addCard(String name){
